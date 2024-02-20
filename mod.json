@@ -8,7 +8,8 @@
 	"id": "elsai.brightness_mod",
 	"name": "Brightness Mod",
 	"developer": "elSai",
-	"description": "Change the brightness of the objects more easier in the editor",
+	"description": "Change the brightness of the objects easier in the editor",
+	"repository": "https://github.com/SaiOwO/Brightness-Mod",
 	"settings": {
 		"min-brightness": {
 			"name": "Min brightness",
